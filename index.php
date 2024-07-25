@@ -1,5 +1,4 @@
 <?php
-<html>
    <head>
       <title>{webpage.title}</title>
    </head>
@@ -8,5 +7,4 @@
       minha querida visitante!
       S2
    </body>
-</html>
 ?>
