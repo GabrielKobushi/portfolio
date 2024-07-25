@@ -1,10 +1,9 @@
-<?php
-   <head>
-      <title>{webpage.title}</title>
-   </head>
-   <body>
-      Hello
-      minha querida visitante!
-      S2
-   </body>
-?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portifolio</title>
+    </head>
+    <body>
+        <p>Ola minha primeira visitante! S2</p>
+    </body>
+</html>
